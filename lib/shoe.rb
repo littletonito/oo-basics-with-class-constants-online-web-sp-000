@@ -1,3 +1,5 @@
 class Shoe
 
+  BRANDS = []
+
 end
